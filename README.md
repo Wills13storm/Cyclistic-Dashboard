@@ -48,6 +48,6 @@ Ce projet a été réalisé dans le cadre d'une étude de cas sur les données d
 ---
 
 👤 **Auteur** : Williams VDB  
-📧 Contact : [Ton email ou LinkedIn si tu veux]  
+📧 Contact : williams.vandenberghe@gmail.com  
 🎯 Projet destiné à intégrer un portfolio data analyst
 
